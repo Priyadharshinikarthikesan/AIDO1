@@ -1,0 +1,260 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bgg1{
+    background-attachment:local;
+    height:30px;
+    
+}
+.imgg{
+    width: 100%;
+    height: 670px;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    width: 100%;
+
+}
+.content{
+    display: flex;
+    gap: 50px;
+    margin-top: 5px;
+}
+.content2{
+    display: flex;
+    gap: 30px;
+    text-align: center;
+}
+.reg{
+    margin-top: 10px;
+}
+.search{
+    width: 20px;
+    height: 20px;
+    margin-top: 6px;
+}
+.login{
+    border: solid orangered 1px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 60px;
+    text-align: center;
+    background-color: rgb(238, 97, 46);
+
+}
+.container2{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 160px;
+    margin-left: 30px;
+}
+.comlogo2{
+    width: 450px;
+    height: 350px;
+}
+.title{
+    font-size: 60px;
+}
+.lorem{
+    width: 500px;
+    margin-top: 10px;
+}
+.add{
+    border: solid orangered 1px;
+    display: inline;
+    border-radius: 20px;
+    padding: 12px; 
+    width: 120px; 
+    text-align: center; 
+    background-color: orangered;
+    color: white;
+}
+.us{
+    border: solid white 1px;
+    display: inline;
+    border-radius: 20px;
+    padding: 12px; 
+    width: 120px; 
+    text-align: center; 
+    background-color: white;
+    color: black;
+}
+.btn{
+    display: flex;
+    gap: 5px;
+}
+.client{
+    background-attachment:local;
+    height:30px;
+     
+}
+.client1{
+    width: 100%;
+    height: 650px;
+}
+.container3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.comlogo2{
+    width: 500px;
+    height: 350px;
+    margin-left: 80px;
+}
+.title1{
+    font-size: 50px;
+    border-bottom: solid black 2px;
+}
+.lorem1{
+    width: 550px;
+}
+.btn1{
+    border: solid rgb(201, 152, 134) 1px;
+    display: inline;
+    border-radius: 20px;
+    padding: 12px;  
+    text-align: center; 
+    background-color: rgb(218, 88, 41);
+    color: white;
+}
+.best{
+    margin-top: 200px;
+}
+.images1{
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;
+}
+.images2{
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;
+}
+.btn2{
+    border: solid rgb(201, 152, 134) 1px;
+    display: inline-block;
+    width: 150px;
+    border-radius: 20px;
+    padding: 12px; 
+    text-align: center; 
+    background-color: rgb(218, 88, 41);
+    color: white; 
+}
+.best{
+    font-size: large;
+}
+.col{
+    color: rgb(218, 88, 41);
+    margin-top: 15px;
+    border-bottom: solid black 1px;
+    display: inline-block;
+    width: 400px;
+}
+.circle1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.para{
+    margin-top: 20px;
+}
+.set1{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.circle2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.para1{
+    margin-top: 20px;
+}
+.set2{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.container4{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.best2{
+    margin-top: 100px;
+}
+.col1{
+    color: rgb(218, 88, 41);
+    margin-top: 15px;
+    border-bottom: solid black 1px;
+    display: inline-block;
+    width: 400px;
+    margin-bottom:20px ;
+}
+.author{
+    margin-top: 100px;
+    text-align: center;
+}
+
+.h1{
+
+}
+.detail{
+    
+    padding: 30px;
+}
+   
+.para5{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.col3{
+    color: orangered;
+    margin-top: 30px;
+    font-size: larger;
+}
+.container5{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.container6{
+    background-color: rgb(1, 1, 34);
+    padding: 20px;
+    color: white;
+}
+.options{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 200px;
+    gap: 100px;
+    
+}
+.options2{
+    margin-top: 30px;
+}
+.container7{
+    display: flex;
+    margin-left: 400px;
+    margin-right: 200px;
+    margin-top: 50px;
+    padding: 20px;
+}
+.mapp{
+    margin-left: 40px;
+    border:  solid white 2px;
+}
+.send{
+    border: solid orangered 2px;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 400px;
+    width: 100px;
+    background-color: orangered;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+
+}
